@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developer
 - 🌱 I’m currently learning fullstack web developer
 - 💞️ I’m looking to collaborate on github
-- 📫  reach me through email (the abdulkalams@gmail.com) 
+- 📫  reach me through email (theabdulkalams@gmail.com) 
 
 <!---
 Abdulkalam1-git/Abdulkalam1-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
