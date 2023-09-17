@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abdulkalam1-git
-- 👀 I’m interested in Web developer
+- 👋 Hi, I’m Abdulkalam
+- 👀 I’m interested in Web developer and Android developer
 - 🌱 I’m currently learning fullstack web developer
 - 💞️ I’m looking to collaborate on github
 - 📫  reach me through email (theabdulkalams@gmail.com) 
