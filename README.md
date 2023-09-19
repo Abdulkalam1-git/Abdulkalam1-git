@@ -2,8 +2,7 @@
 
 
 
-
-![linkdin background](https://github.com/Abdulkalam1-git/Abdulkalam1-git/assets/142289622/9f5acf28-39c6-4e9e-ae60-5f2170d7be77)
+![image](https://github.com/Abdulkalam1-git/Abdulkalam1-git/assets/142289622/91722b3a-80f8-446b-9935-c89180f341cb)
 
 
 
