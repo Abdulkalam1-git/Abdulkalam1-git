@@ -10,8 +10,7 @@
 
 
 - 👋 Hi, I’m Abdulkalam
-- 👀 I’m interested in Web development and Android development
-- 🌱 I’m currently learning fullstack web developer
+- 👀 I’m interested in Android development
 - 💞️ I’m looking to collaborate on github
 - 📫  reach me through email (theabdulkalams@gmail.com) 
 
