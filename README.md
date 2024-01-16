@@ -10,7 +10,6 @@
 
 
 - 👋 Hi, I’m Abdulkalam
-- 👀 I’m interested in Android development
 - 💞️ I’m looking to collaborate on github
 - 📫  reach me through email (theabdulkalams@gmail.com) 
 
