@@ -8,7 +8,8 @@
 
 
 
- - I am interested in Java .
+ - I am interested in Full Stack Java Development
+ - react js , SpringBoot, MySQL,Mongodb .
 - 👋 Hi, I’m Abdulkalam
 - 💞️ I’m looking to collaborate on github
 - 📫  reach me through email (theabdulkalams@gmail.com) 
