@@ -1,13 +1,4 @@
 
-
-
-
-![image](https://github.com/Abdulkalam1-git/Abdulkalam1-git/assets/142289622/91722b3a-80f8-446b-9935-c89180f341cb)
-
-
-
-
-
  - I am interested in Full Stack Java Development
  - java, SpringBoot, MySQL,Mongodb .
 - 👋 Hi, I’m Abdulkalam
