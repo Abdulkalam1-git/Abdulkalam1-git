@@ -1,5 +1,5 @@
 
- - I am interested in Full Stack Java Development
+ - I am interested in  Java Development
  - java, SpringBoot, MySQL,Mongodb .
 - 👋 Hi, I’m Abdulkalam
 - 💞️ I’m looking to collaborate on github
