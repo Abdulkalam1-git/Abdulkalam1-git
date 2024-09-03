@@ -1,25 +1,18 @@
-
- - I am interested in  Springboot Application Development .
- - Core java, SpringBoot , MySQL , PostgreSQL , MongoDB .
-- 👋 Hi, I’m Abdulkalam
-- 📫  reach me through email (theabdulkalams@gmail.com) , (abdulkalamcse04@gmail.com)
-- ![image](https://github.com/user-attachments/assets/cf323a11-6d1d-4674-aa9b-4d8156a097c9)
- ![image](https://github.com/user-attachments/assets/95a9c621-5d5e-4f5c-bbf1-2bd2b0921053)
- ![image](https://github.com/user-attachments/assets/9989647a-5dab-4d74-8ff8-0c6b1fe8a81f) -
- ![mongodb (1)](https://github.com/user-attachments/assets/8b5034d3-6ba2-4c1b-9c61-92642ee729cf)
-![image](https://github.com/user-attachments/assets/c46eada3-ff52-46f9-ad14-1dd043d9656f)
- ![image](https://github.com/user-attachments/assets/7ac4f960-0ace-4e44-89fa-3116778ce922) 
-![image](https://github.com/user-attachments/assets/ddcb8c0a-1571-42e1-9474-10f115d8701d)
+# 💫 About Me:
+🔭 I’m currently working at vinbytes<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning spring boot <br>💬 Ask me about core java , sql<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-kalam-66a991252/) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdulkalam1-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulkalam1-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkalam1-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Abdulkalam1-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
- 
-
-<!---
-Abdulkalam1-git/Abdulkalam1-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
