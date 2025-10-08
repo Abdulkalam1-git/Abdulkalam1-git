@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at vinbytes<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning spring boot <br>💬 Ask me about core java , sql<br>
+🔭 I’m currently working at Corent<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning spring boot <br>💬 Ask me about core java , sql<br>
 
 
 ## 🌐 Socials:
